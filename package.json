@@ -1,0 +1,26 @@
+{
+  "name": "TestingArenJSNodemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AutoHibernate.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "tbj": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilrajput03/TestingArenJSNodemon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilrajput03/TestingArenJSNodemon/issues"
+  },
+  "homepage": "https://github.com/sahilrajput03/TestingArenJSNodemon#readme"
+}
